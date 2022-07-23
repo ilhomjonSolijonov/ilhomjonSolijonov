@@ -9,8 +9,8 @@ So I am Front-End Developer  <br/>
 
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="27px" /> </code>
-<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
-<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://mpng.subpng.com/20180411/cvq/kisspng-javascript-html-computer-software-web-browser-watermark-5acdbd54ac19f7.4484983215234327887049.jpg" width="27px" /> </code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" width="27px" /> </code>
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
