@@ -15,6 +15,6 @@ So I am Front-End Developer  <br/>
 <code><img src="https://cdn.freebiesupply.com/logos/thumbs/2x/react-1-logo.png" width="27px" /> </code>
 
 <br/>
-- 📌 &nbsp; Current location: Namangan, Uzbekistan, 
-- 📃 &nbsp; Ask me about any thing, I am a happy to help
-- 🔔 &nbsp; How to reach me:[@ilhomjonsolijonov](https://instagram/aLoNe_me)
+- 📌 &nbsp; Current location: Namangan, Uzbekistan,  <br/>
+- 📃 &nbsp; Ask me about any thing, I am a happy to help  <br/>
+- 🔔 &nbsp; How to reach me:[@ilhomjonsolijonov](https://instagram/aLoNe_me)  <br/>
