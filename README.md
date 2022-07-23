@@ -17,4 +17,4 @@ So I am Front-End Developer  <br/>
 <br/>
 - 📌 &nbsp; Current location: Namangan, Uzbekistan,  <br/>
 - 📃 &nbsp; Ask me about any thing, I am a happy to help  <br/>
-- 🔔 &nbsp; How to reach me:[@ilhomjonsolijonov](https://instagram/aLoNe_me)  <br/>
+
