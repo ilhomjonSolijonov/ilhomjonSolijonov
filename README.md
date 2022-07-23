@@ -8,3 +8,9 @@ So I am Front-End Developer  <br/>
 ### Languages and tools i work with:
 
 <code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png" width="27px" /> </code>
