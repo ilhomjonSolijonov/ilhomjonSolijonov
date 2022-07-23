@@ -7,4 +7,4 @@ So I am Front-End Developer  <br/>
 
 ### Languages and tools i work with:
 
-<code><img src="[https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png](http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png)" width="27px" /> </code>
+<code><img src="https://www.w3.org/html/logo/downloads/HTML5_1Color_White.png](http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png)" width="27px" /> </code>
